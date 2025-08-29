@@ -16,6 +16,6 @@ jobs:
           event-type: submodule-update
           client-payload: |
             {
-              "submodule": "D&D/community",
+              "submodule": "D&D/Community",
               "ref": "${{ github.sha }}"
             }
