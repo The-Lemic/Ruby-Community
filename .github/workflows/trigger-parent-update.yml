@@ -1,0 +1,21 @@
+name: Trigger Parent Repository Update
+
+on:
+  push:
+    branches: [ main, master ]
+
+jobs:
+  trigger-parent-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger parent repository update
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.PARENT_REPO_TOKEN }}
+          repository: The-Lemic/Obsidian
+          event-type: submodule-update
+          client-payload: |
+            {
+              "submodule": "D&D/community",
+              "ref": "${{ github.sha }}"
+            }
