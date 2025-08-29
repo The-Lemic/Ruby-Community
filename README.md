@@ -1,54 +1,88 @@
-# D&D Campaign - Community Content
+---
+publish:
+tags: 
+---
 
-This repository contains public-facing content from our D&D campaign set in the world of Aleth. Players and interested community members can contribute to world-building, lore, and other shareable content.
+# Ruby - Community Contributions
 
-## Campaign Overview
+Welcome to the **Community** section of **Ruby**, our D&D campaign wiki! This is where players can add shareable content that contributes to our world of Aleth. This area if for players to keep their ongoing notes about their campaign. Content might drift in and out of the Community Section and Move into the rest of Ruby where its under the DMs control
 
-**Setting**: The fantasy world of Aleth  
-**System**: D&D 5e with custom house rules  
-**Theme**: Classic fantasy with darker cult/demonic elements
+## Quick Start for Players
 
-## Repository Structure
+1. **Add Content**: Create or edit `.md` files in this Community folder only
+2. **Push to Main**: Simply push your changes to the main branch
+3. **Auto-Deploy**: Ruby wiki updates automatically in 2-3 minutes
 
-- **Lore/**: World history, mythology, and background
-- **Locations/**: Geographic areas and settlements
-- **Organisations/**: Factions, guilds, and power structures
-- **House Rules.md**: Custom game mechanics
+## What Goes in Community
 
-## Contributing
+**✅ Add Here:**
+- Your Quest list
+- Character backstory elements that others can reference
+- Public knowledge about locations you've visited
+- Notes around mystery's your unravelling
+- Public NPCs (merchants, innkeepers, guards)
+- General world-building that enhances the campaign
 
-### For Players
-- Add character backstory elements that tie into the world
-- Contribute to location descriptions based on in-game discoveries
-- Expand on cultural elements and folklore
+**❌ Don't Add Here:**
+- Private character secrets or personal notes
+- Session-specific spoilers or plot details
+- Secret organization plans or hidden agendas
+- Meta-gaming information
 
-### For Community Members
-- Suggest improvements to house rules
-- Contribute balanced homebrew content
-- Help expand world lore and history
+## Community Folder Structure
 
-### Guidelines
-- All content should fit the established world and tone
-- Keep contributions appropriate for all ages
-- No spoilers or meta-gaming information
-- Follow existing formatting conventions
+Try to keep things in folders
 
-## Submitting Changes
+```
+Community/
+├── Lore/              # World history & public knowledge
+├── Locations/         # Places accessible to all characters
+├── Organisations/     # Public factions & groups
+├── NPCs/             # Public figures & merchants
+```
 
-1. Fork this repository
-2. Make your changes in a feature branch
-3. Submit a pull request with:
-   - Clear description of changes
-   - Rationale for additions/modifications
-   - Any relevant campaign context
+## How to Contribute
 
-## Content Standards
+### Adding a New Location
+```markdown
+# Location Name
 
-- **Lore**: Should enhance rather than contradict existing world-building
-- **Locations**: Include enough detail for potential campaign use
-- **NPCs**: Focus on public figures, merchants, tavern keepers, etc.
-- **Organisations**: Public knowledge only, no secret plans or hidden agendas
+## Description
+What does it look like? What's the atmosphere?
+
+## Notable Features
+- Landmark buildings
+- Unique characteristics
+- Services available
+
+## Known NPCs
+- [[NPC Name]] - Brief description
+- [[Another NPC]] - What they do here
+
+## Public Knowledge
+What everyone in the area knows about this place.
+```
+
+### Linking Content
+Use `[[Page Name]]` to link between Community content:
+- `[[Godmere]]` - Links to Godmere location page
+- `[[The Iron Guild]]` - Links to organization page
+
+## ⚡ Publishing Process
+
+1. **Edit Files**: Add or modify `.md` files in Community folder
+2. **Commit & Push**:
+   ```bash
+   git add .
+   git commit -m "Added tavern in Dawnvale"
+   git push origin main
+   ```
+3. **Auto-Update**: Ruby wiki refreshes in 2-3 minutes!
+
+## 🔗 Integration with Ruby
+
+This Community content automatically appears in the main Ruby wiki alongside private campaign materials. Your contributions help build a richer, more detailed world for everyone to enjoy!
 
 ---
 
-*This content is automatically integrated into our campaign wiki at [campaign-site-url]*
+*Push to main branch and watch Ruby update in 2-3 with your contributions!*
