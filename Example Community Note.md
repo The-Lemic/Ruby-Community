@@ -23,3 +23,4 @@ This demonstrates how community contributors can add content to the D&D campaign
 - No spoilers or meta-gaming information  
 - Follow existing formatting conventions
 - Focus on world-building elements that enhance the campaign
+- You can also use this area for collective party note and plans about the world
