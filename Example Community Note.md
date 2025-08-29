@@ -2,7 +2,7 @@
 publish: true
 tags: [example]
 ---
-test update
+test update test
 
 This is an example note in the community repository. 
 
