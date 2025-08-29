@@ -3,7 +3,6 @@ publish: true
 tags: [example]
 ---
 
-# Example Community Note
 
 This is an example note in the community repository. 
 
@@ -24,6 +23,3 @@ This demonstrates how community contributors can add content to the D&D campaign
 - No spoilers or meta-gaming information  
 - Follow existing formatting conventions
 - Focus on world-building elements that enhance the campaign
-
----
-*This note can be safely deleted once real community content is added.*
