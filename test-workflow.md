@@ -3,7 +3,7 @@ publish: true
 tags: [test]
 ---
 
-test
+test just community push
 # Test Workflow
 
 This is a test file to verify the automated workflow is working.
