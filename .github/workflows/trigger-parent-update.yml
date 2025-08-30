@@ -12,7 +12,7 @@ jobs:
         uses: peter-evans/repository-dispatch@v3
         with:
           token: ${{ secrets.PARENT_REPO_TOKEN }}
-          repository: The-Lemic/Obsidian
+          repository: The-Lemic/Ruby
           event-type: submodule-update
           client-payload: |
             {
