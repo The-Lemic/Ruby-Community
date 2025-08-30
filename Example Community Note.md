@@ -2,7 +2,6 @@
 publish: true
 tags: [example]
 ---
-test update test
 
 This is an example note in the community repository. 
 
@@ -10,9 +9,19 @@ This is an example note in the community repository.
 
 This demonstrates how community contributors can add content to the D&D campaign wiki.
 
+## Clone
+
+```
+Clone using the web URL.
+https://github.com/The-Lemic/Ruby-Community.git
+
+Clone using ssh
+git@github.com:The-Lemic/Ruby-Community.git
+```
+
 ## How to Contribute
 
-1. Fork the repository
+1. Fork the repository - https://github.com/The-Lemic/Ruby-Community
 2. Add your content with `publish: true` in the frontmatter
 3. Submit a pull request
 4. Once approved, it will appear on the campaign site
