@@ -3,6 +3,7 @@ publish: true
 tags: [test]
 ---
 
+test
 # Test Workflow
 
 This is a test file to verify the automated workflow is working.
