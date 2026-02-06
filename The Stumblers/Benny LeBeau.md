@@ -5,15 +5,16 @@ tags:
 ---
 
 ## Character Overview
-**Race/Class**: Warlock (Everflame heritage)
+**Race/Class**: Sorcorer (Everflame heritage)
 **Background**: Member of The Ghostwalkers secret society
-**Player**: [Player name]
+**Player**: [Tom]
 
 ## Appearance & Personality
 ### Physical Description
-Wears distinctive purple and gold outfit
-Carries warlock implements and arcane focus
+Wears flamboyant outfits
+Carries a whip
 Bears the hidden mark of an Everflame - fire magic user
+Early 20s / Atheletic build / Red Hair
 
 ### Personality Traits
 Dramatic flair and showmanship in combat and social situations
@@ -24,18 +25,24 @@ Conflicted about family legacy with The Ghostwalkers
 Makes dramatic entrances and theatrical displays
 Quick to notice details others miss
 Careful about revealing his Everflame nature due to persecution history
+Has a strange accent often, hard to tell where he comes from
 
 ## Background & History
 ### Origins
 Born into [[The Ghostwalkers]] secret society - shadowy organization operating in high court
 Family tradition of serving as "Reapers" - male warlocks conducting espionage and assassinations
-Known to [[Strom]] from their shared village background
+Known to [[Strom]] from their shared time in Stroms village, while he was hiding away from the Ghostwalkers
 Hidden Everflame heritage makes him target for persecution
 
 ### Notable Life Events
-**The Fold**: At age 18, underwent ceremony to become a Reaper in The Ghostwalkers
+**The Fold**: At age 18, was supposed to go throught the ceremony to become a Reaper in The Ghostwalkers. However, his Everflame heritage and outlandish personality made him not suitable. However, he witnessed the ceremony where his twin sister went through hers.
+
+As he found out about the society, there was much turmoil with what to do with him. Many wanted him dead. However, his family ties meant there would be too much political issues around it. So banishing him from the city was deemed necessary. 
+
 **Everflame Concealment**: Learned to hide his fire magic abilities to avoid persecution
-**Village Connection**: Grew up knowing [[Strom]] and [[Zog Ironheart]]
+**Village Connection**: Spent few years with [[Strom]] and [[Zog Ironheart]] hiding out in there village.
+**High Society:** Has gone to many society events where the [[Blastran]] family would also of attended.
+
 
 ## Notable Campaign Moments
 ### Key Events
@@ -102,7 +109,7 @@ Use Ghostwalker skills for good rather than shadowy political manipulation
 
 ## Places & Locations
 ### Home & Origins
-Village where [[Strom]] grew up - shared hometown connection
+Raised in Godmere but family has homes all over the country.
 Ghostwalker training locations - secret society facilities
 High court connections through family's Siren operations
 
@@ -114,19 +121,31 @@ High court connections through family's Siren operations
 
 ## Equipment & Possessions
 ### Notable Items
-**Purple and gold outfit** - Signature dramatic wardrobe
-**Warlock implements** - Focus items for channeling patron powers
-**Modified crossbow** - Worked with [[Barnaby]] to enhance
+**Whip** - skilled with the basic whip 
+**Modified Reaper mask** - stolen from his training gear. Modified it so it was more to his style
+**Family signet ring** - signet ring with the families crest of the cannon
 **Cult token** - Coin marked with triangles and circles from [[Godfrey the mad man]]
 
 ### Magical Items
 **Fire magic abilities** - Everflame heritage allowing innate fire spells
-**Warlock spells** - Powers granted through Ghostwalker patron connection
-**Arcane focus** - Channel for magical abilities
 
 ### Sentimental Items
 **Ghostwalker markers** - Items signifying Reaper status
 **Village mementos** - Connections to shared past with [[Strom]]
+
+## LeBeau Family
+The LeBeau family stands among the most powerful noble houses of the city, their wealth and influence built upon a near-total monopoly of black powder. To the public, Viscount Javier LeBeau is a calculating industrial magnate, ruling from his factories along the docks, while Lady Amelie LeBeau—herself born of an elite horse-breeding dynasty tied to old noble blood—embodies refinement and tradition. Privately, the family is bound to a secret society they helped found generations ago, an organization that values obedience, secrecy, and ritual above all else. Every child of House LeBeau is expected to serve the society, undergoing ceremonies that bind them to its purpose: the daughters as Sirens, the sons as Reapers.
+
+Benny LeBeau was the exception—and the shame. Born with the mark of the Everflame, he was deemed too dangerous to indoctrinate and too valuable to execute. Rather than risk the society’s wrath, Javier arranged for Benny’s quiet banishment from the city, erasing his presence while keeping his survival a closely guarded secret. In his absence, Benny’s sisters—Annette, Bethany, and Claire—fulfilled their roles without question, and his youngest brother Danton now stands on the brink of his own Reaper ceremony. Officially, Benny is spoken of as a failure, a disappointment who lacked the discipline to serve. In truth, his whereabouts over the past several years remain one of the family’s most dangerous secrets. Torn between a longing for his parents’ approval and a growing rejection of the society that would have destroyed him, Benny exists as a living contradiction—proof that the LeBeau legacy is not as unbreakable as it claims to be.
+
+### Black powder dynasty
+The family fortune goes back decades. When a simple farmers crops didnt bring yield. Jean Paul LeBeau had to look elsewhere for wealth. People thought he was mad for banking on the barren wastelands of Atrata. Making a deal and purchasing the land for what everyone thought was an absurd amount for nothing he spent his whole life dedicated trying to find a use for the leftovers from the wastelands. It wasn't until his final days where one of his experiments came to fruition creating a powerful explosive material. Since the family own the land and no one else has access to the main ingredient for the black powder. The family had a monopoly on the source and gained fortune and favour with the most powerful of people.
+
+### Family Locations
+
+**Godmeirs town house** primary location of the LeBeaus with secret access to the tunnels leading to the secret society
+**Factories** every worthy port will have a a LeBeau factory outport where the black powder will be stored.
+**Atrata mining facility** in the barren black landscape a tiny mining facility scalping the land for the main ingredients for the black powder
 
 ## Secrets & Hidden Information
 ``` blur-block
