@@ -29,12 +29,12 @@ Family with political ambitions - parents trying to raise a court wizard rather 
 Parents attempting to get the King's ring for political reasons
 Comes from background expecting conventional magical education path
 ### Notable Life Events
-**Academic Expulsion**: Had disagreement/accident with [[Morfumple]] (possibly intentional to get away from [[Neil]])
+**Academic Expulsion**: Had disagreement/accident with [[Morfumple the Mediocre]] (possibly intentional to get away from [[Neil]])
 **Teacher Conflict**: Left previous magical training under questionable circumstances
 **Family Pressure**: Parents pushing for court wizard career rather than adventuring
 ## Notable Campaign Moments
 ### Key Events
-**Session 1**: Used magic to clean and restore rusted weapons given by [[Bjorn]], demonstrating practical magical applications
+**Session 1**: Used magic to clean and restore rusted weapons given by [[Bjorn The BlackSmith]], demonstrating practical magical applications
 
 **Session 2**: Created a floating pink disc for [[Cnut]]'s performance at [[The Stumble Inn]], showing creative magical support
 
@@ -58,7 +58,7 @@ Prove that alternative magical education can be superior to traditional paths
 Support party through tactical magical abilities
 ### Unresolved Business
 `~{**Family Political Pressure**: Parents' attempts to secure King's ring and court position}`
-**Former Teacher Conflict**: True reason for expulsion from [[Morfumple]] and issues with [[Neil]]
+**Former Teacher Conflict**: True reason for expulsion from [[Morfumple the Mediocre]] and issues with [[Neil]]
 `~{**[[Everflame]] Heritage**: Potential powerful magical bloodline requiring exploration}`
 **[[Aldor]] Training**: Developing new magical abilities under unconventional mentorship
 ## Relationships & Connections
@@ -70,13 +70,13 @@ Support party through tactical magical abilities
 
 ### NPCs & Important Figures
 **[[Aldor]]** - **NEW MENTOR** - Successfully acquired as patron and teacher, represents new educational path
-**[[Morfumple]]** - **Former teacher** - Had conflict leading to expulsion
+**[[Morfumple the Mediocre]]** - **Former teacher** - Had conflict leading to expulsion
 **[[Neil]]** - **Former magical contact** - Part of previous educational problems
-**[[Bjorn]]** - Beneficiary of his weapon restoration magic
+**[[Bjorn The BlackSmith]]** - Beneficiary of his weapon restoration magic
 **Parents** - Politically ambitious, pushing court wizard career
 **[[Marvin the Owlbear]]** - Protected alongside [[Bronn]] in final battle
 ### Enemies & Rivals
-**[[Morfumple]]** - Former teacher, represents failed traditional education
+**[[Morfumple the Mediocre]]** - Former teacher, represents failed traditional education
 **[[Neil]]** - Former magical contact, part of previous conflicts
 **Family expectations** - Political pressure to become court wizard
 **Traditional magical establishment** - Represents path he's rejected

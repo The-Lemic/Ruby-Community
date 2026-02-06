@@ -30,7 +30,7 @@ Only half-orc in the village, questions about his father's unique presence
 Raised under pressure to live up to his father's reputation as protector
 ### Notable Life Events
 Learned uncomfortable family truths - mother had affair with mad priest and ran off with sailor
-Mother disappeared two weeks ago, secretly joined [[Cult of Orcus]]
+Mother disappeared two weeks ago, secretly joined [[Order of the Old Gods]]
 Family crisis has devastated both him and his father
 ## Notable Campaign Moments
 ### Key Events
@@ -45,16 +45,16 @@ Learning to channel aggression constructively
 Dealing with family trauma and mother's betrayal
 ## Personal Quests & Goals
 ### Current Personal Quests
-**Family Mission**: Stop his mother [[Gabb Ironheart]] from being dragged further into the [[Cult of Orcus]]
+**Family Mission**: Stop his mother [[Gabb Ironheart]] from being dragged further into the [[Order of the Old Gods]]
 **Personal Growth**: Live up to what his father was as a protector of [[Dawnvale]]
 **Practical Goal**: Wants a mount for adventuring
 ### Long-term Goals & Motivations
 Become a worthy protector like his father [[Zog Ironheart]]
-Rescue his mother from the [[Cult of Orcus]]
+Rescue his mother from the [[Order of the Old Gods]]
 Prove himself as more than just a drunken troublemaker
 Establish his own identity separate from family expectations
 ### Unresolved Business
-Mother's involvement with [[Cult of Orcus]] and how to save her
+Mother's involvement with [[Order of the Old Gods]] and how to save her
 Repairing his reputation in [[Dawnvale]] after drunken incidents
 Living up to father's legacy as town protector
 Understanding why his father is the only orc in the village
@@ -67,12 +67,12 @@ Understanding why his father is the only orc in the village
 
 ### NPCs & Important Figures
 **[[Zog Ironheart]]** - Father, orc barbarian and town protector of [[Dawnvale]], devastated by wife's disappearance
-**[[Gabb Ironheart]]** - Mother, disappeared two weeks ago, secretly recruited into [[Cult of Orcus]]
+**[[Gabb Ironheart]]** - Mother, disappeared two weeks ago, secretly recruited into [[Order of the Old Gods]]
 **Mad Priest** - Had affair with his mother
 **Sailor** - His mother ran off with this person
 **[[Callie Tosslecobb]]** - Initially wary due to his past drunken altercations
 ### Enemies & Rivals
-[[Cult of Orcus]] - Recruited his mother, primary antagonist
+[[Order of the Old Gods]] - Recruited his mother, primary antagonist
 Mad Priest - Caused family trauma through affair
 Townspeople who judge him for past drunken behavior
 ## Places & Locations
@@ -81,10 +81,10 @@ Townspeople who judge him for past drunken behavior
 Only half-orc family in the village, raising questions about [[Zog Ironheart]]'s presence
 ### Significant Locations Visited
 [[Dawnvale]] - Home base and where family crisis unfolded
-Various adventure locations with the [[Eploy Group]]
+Various adventure locations with the [[The Stumblers]]
 ### Places of Interest
 [[Dawnvale]] - His responsibility to protect like his father
-Wherever the [[Cult of Orcus]] has taken his mother
+Wherever the [[Order of the Old Gods]] has taken his mother
 Potential locations to acquire a mount
 ## Equipment & Possessions
 ### Notable Items
@@ -97,15 +97,15 @@ Family legacy and responsibility to [[Dawnvale]]
 Connection to father [[Zog Ironheart]]'s reputation
 ## Secrets & Hidden Information
 ### Known Secrets
-**[[Gabb Ironheart]]'s Cult Involvement**: Mother was recruited into [[Cult of Orcus]]
+**[[Gabb Ironheart]]'s Cult Involvement**: Mother was recruited into [[Order of the Old Gods]]
 **Family Scandal**: Mother had affair with mad priest before running off with sailor
 **Unique Heritage**: Questions about why [[Zog Ironheart]] is the only orc in [[Dawnvale]]
 ### Potential Plot Hooks
-**Mother Rescue Mission**: Saving [[Gabb Ironheart]] from [[Cult of Orcus]]
+**Mother Rescue Mission**: Saving [[Gabb Ironheart]] from [[Order of the Old Gods]]
 **Family Legacy**: Living up to [[Zog Ironheart]]'s reputation as protector
 **Village Integration**: Understanding his father's unique position in [[Dawnvale]]
 **Personal Redemption**: Overcoming reputation from drunken altercations
-**[[Cult of Orcus]] Threat**: Mother's involvement connects to larger campaign threat
+**[[Order of the Old Gods]] Threat**: Mother's involvement connects to larger campaign threat
 ## Notes & Miscellaneous
 **Family Crisis**: Central character motivation revolves around mother's disappearance and cult involvement
 **Legacy Pressure**: Struggles with living up to father's reputation as town protector

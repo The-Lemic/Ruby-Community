@@ -57,11 +57,11 @@ Hidden Everflame heritage makes him target for persecution
 Evolution from secretive lone operative to trusted party member
 Learning to balance Ghostwalker training with genuine friendships
 Coming to terms with revealing his Everflame heritage to allies
-Growing concern about potential Ghostwalkers involvement in [[Order of the New Dawn (Cult of Orcus)|Cult of Orcus]]
+Growing concern about potential Ghostwalkers involvement in [[Order of the Old Gods|Cult of Orcus]]
 
 ## Personal Quests & Goals
 ### Current Personal Quests
-**Ghostwalkers Investigation**: Determine if his family's organization is connected to the [[Order of the New Dawn (Cult of Orcus)|Cult of Orcus]]
+**Ghostwalkers Investigation**: Determine if his family's organization is connected to the [[Order of the Old Gods|Cult of Orcus]]
 **Identity Balance**: Reconcile Reaper training with being a genuine party member
 **Cult Entanglement**: Deal with consequences of joining Godfrey's cult
 **Everflame Acceptance**: Navigate revelation of his fire magic heritage to party
@@ -97,7 +97,7 @@ Use Ghostwalker skills for good rather than shadowy political manipulation
 ### Enemies & Rivals
 **[[Everflame]] Hunters** - Those who persecute people with fire magic heritage
 **Potential Ghostwalker Handlers** - May try to pull him back into shadow operations
-**[[Order of the New Dawn (Cult of Orcus)|Cult of Orcus]]** - If connected to Ghostwalkers, puts him in difficult position
+**[[Order of the Old Gods|Cult of Orcus]]** - If connected to Ghostwalkers, puts him in difficult position
 **Unknown Enemies** - His Reaper past may have created enemies he doesn't realize
 
 ## Places & Locations

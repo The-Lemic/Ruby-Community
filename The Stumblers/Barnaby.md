@@ -5,7 +5,6 @@ tags:
   - Mindmap
 ---
 
-
 ## Character Overview
 **Race/Class**: Tortle Artificer
 **Background**: Traveling merchant/trader
@@ -36,7 +35,7 @@ Established successful trade route network
 Recruited by [[Luxor]] for specific ruby transport mission
 ## Notable Campaign Moments
 ### Key Events
-**Trade Route Journey**: Travelled from [[Arastand]] through [[Farkeep]], [[Ironpine]], [[Hintermere]], [[Valeth]], [[Newguard]], [[Bleakvein]], back to [[Newguard]], then [[Oxborn]], arriving in [[Dawndale]]
+**Trade Route Journey**: Travelled from [[Arastand]] through [[Farkeep]], [[Ironpine]], [[Hintermere]], [[Valeth]], [[Newguard]], [[Bleakvein]], back to [[Newguard]], then [[Oxborn]], arriving in [[Dawnvale]]
 
 **Ruby Supply Run**: Unknowingly transporting rubies for [[Luxor]] to [[Godmere]] - picked up [[Cnut]] at [[Arastand]], then travelled to [[Bleakvein]] to collect supply
 
@@ -46,7 +45,7 @@ Recruited by [[Luxor]] for specific ruby transport mission
 
 **Session 2**: Successfully harvested 3x Lightning Moss from the town fountain
 
-**Session 3**: Successfully created and sold hair tonic to [[Bjorn]] (with unexpected results)
+**Session 3**: Successfully created and sold hair tonic to [[Bjorn The BlackSmith]] (with unexpected results)
 
 **Session 4**: **CONTROVERSIAL ACTION** - Abandoned dying [[Cnut]], refused to heal him, leading to Cnut's death
 
@@ -79,7 +78,7 @@ Recovering stolen trade goods from bandit ambush
 ### NPCs & Important Figures
 **[[Cnut]]** - Passenger picked up at [[Arastand]]
 **Ruby buyer in [[Godmere]]** - **[[Luxor]]** - Suspicious figure who specifically recruited him for ruby transport
-**[[Bjorn]]** - Customer who bought his hair tonic
+**[[Bjorn The BlackSmith]]** - Customer who bought his hair tonic
 **[[Tabaxi]] traders** - Historical enemies who took advantage of him
 
 ### Enemies & Rivals
@@ -99,7 +98,7 @@ Recovering stolen trade goods from bandit ambush
 - [[Newguard]] - Passed through twice
 - [[Bleakvein]] - Ruby supply source
 - [[Oxborn]]
-- [[Dawndale]] - Current/recent arrival location
+- [[Dawnvale]] - Current/recent arrival location
 
 ### Places of Interest
 - [[Godmere]] - Destination for ruby delivery
