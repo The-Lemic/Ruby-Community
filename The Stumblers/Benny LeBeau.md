@@ -139,25 +139,6 @@ High court connections through family's Siren operations
 **Godmeirs town house** primary location of the LeBeaus with secret access to the tunnels leading to the secret society
 **Factories** every worthy port will have a a LeBeau factory outport where the black powder will be stored.
 **Atrata mining facility** in the barren black landscape a tiny mining facility scalping the land for the main ingredients for the black powder
-
-## Secrets & Hidden Information
-``` blur-block
-### Known Secrets
-**Ghostwalker Reaper**: Trained as assassin and spy for secret high court organization
-**Everflame Heritage**: Fire magic user in world that persecutes his kind
-**The Fold Ceremony**: Underwent ritual at 18 to become full Reaper operative
-**Cult Membership**: Inadvertently joined Godfrey's cult, carries token connection
-**Family Shadow Operations**: The Ghostwalkers pin their crimes on Everflames to avoid detection
-
-### Potential Plot Hooks
-**Ghostwalkers-Cult Connection**: Investigation into family organization's ties to Orcus cult
-**Reaper Mission Conflict**: Orders from Ghostwalkers that conflict with party loyalty
-**Everflame Persecution**: Discovery of his nature by hostile forces
-**Siren Network**: Female Ghostwalker operatives may provide information or complications
-**Godfrey's Cult Consequences**: Being marked by Old Ones cult may have unforeseen effects
-**Frame Jobs**: Ghostwalkers use Everflames as scapegoats - potential to encounter his family's victims
-```
-
 ## Notes & Miscellaneous
 **Theatrical Combat Style**: Combines warlock magic with dramatic flair and showmanship
 **Scout Specialist**: Natural talent for reconnaissance and noticing hidden dangers
