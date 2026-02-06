@@ -57,9 +57,8 @@ Avoid being forced into court wizard role by politically ambitious parents
 Prove that alternative magical education can be superior to traditional paths
 Support party through tactical magical abilities
 ### Unresolved Business
-`~{**Family Political Pressure**: Parents' attempts to secure King's ring and court position}`
+
 **Former Teacher Conflict**: True reason for expulsion from [[Morfumple the Mediocre]] and issues with [[Neil]]
-`~{**[[Everflame]] Heritage**: Potential powerful magical bloodline requiring exploration}`
 **[[Aldor]] Training**: Developing new magical abilities under unconventional mentorship
 ## Relationships & Connections
 ### Party Members
@@ -110,21 +109,6 @@ Rebel against predetermined court wizard career path
 **Academic materials** - Representing his chosen path over family expectations
 **Items from [[Aldor]]** - Symbols of new mentorship and independence
 **Memory of [[Cnut]]'s performance** - Creative magical collaboration
-## Secrets & Hidden Information
-``` blur-block
-### Known Secrets
-**Family Political Schemes**: Parents' attempts to secure King's ring for court position
-**True Expulsion Reason**: The real circumstances behind leaving [[Morfumple]] and issues with [[Neil]]
-**[[Everflame]] Heritage**: Potential powerful magical bloodline connection
-**[[Aldor]]'s Methods**: Unconventional magical teaching techniques and knowledge
-### Potential Plot Hooks
-**Family Political Conflict**: Parents' schemes involving King's ring and court wizard position
-**Magical Education Arc**: Learning unconventional magic from [[Aldor]] vs. traditional paths
-**[[Everflame]] Discovery**: Exploring potential powerful magical heritage
-**Former Teacher Revenge**: [[Morfumple]] and [[Neil]] may seek retribution
-**Court Wizard Pressure**: Ongoing family attempts to force traditional career path
-**[[Aldor]]'s Agenda**: Understanding new mentor's true goals and methods
-```
 ## Notes & Miscellaneous
 **Educational Rebel**: Represents rejection of traditional magical academy system in favor of practical, unconventional learning
 **Family Conflict**: Central tension between personal choice and political family expectations
