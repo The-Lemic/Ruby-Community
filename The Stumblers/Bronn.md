@@ -34,9 +34,6 @@ Many before him have been driven mad by [[Talos]]'s power
 ### Notable Life Events
 **The Mind Wipe**: Lost 30 years of memory after mysterious mind wipe - unknown who performed it or why
 
-`~{**[[Everflame]] Killing**: Killed an old miner 20 years ago because the miner's daughter was an [[Everflame]] - suggests involvement in systematic persecution}`
-
-`~{**Service to [[Talos]]**: Ally to the storm god, tapping into dangerous powers that have driven others mad}`
 
 ## Notable Campaign Moments
 ### Key Events
@@ -65,14 +62,12 @@ Knows deep down that he has done something awful
 Uncover the truth behind the mind wipe and his lost 30 years
 Atone for his past involvement in [[Everflame]] persecution
 Protect his current party from the consequences of his forgotten actions
-`~{Master [[Talos]]'s power without succumbing to madness like others before him}`
+
 ### Unresolved Business
 **The Mind Wipe Mystery**: Who performed it, why, and what crucial information was hidden
 `~{**[[Everflame]] Daughter**: The miner's daughter may seek revenge for her father's death}`
 **[[Dawnvale]] Connection**: His flashbacks suggest direct involvement in the town's `~{[[Everflame]] purges}`
-**[[Kord Family]] Connection**: His actions may be connected to the tragic fate of the [[Kord]] family
-`~{**[[Dawnbringer]] Conflict**: The [[Dawnbringer]] (backed by god of murder) is his enemy
-}`
+
 ## Relationships & Connections
 ### Party Members
 - [[Barnaby]] - **PROTECTIVE** - Consistently moves to protect him in combat, strong protective bond
@@ -101,11 +96,10 @@ Protect his current party from the consequences of his forgotten actions
 `~{Likely involved in systematic [[Everflame]] persecution throughout the region}`
 ### Significant Locations Visited
 **[[Dawnvale]]** - **TRIGGER LOCATION** - Causes disturbing flashbacks of figures in blue cloaks going door-to-door
-`~{**Sites of [[Everflame]] persecution** - Likely visited many during his forgotten 30 years}`
-`~{**Location of miner killing** - Scene of his documented murder 20 years ago}`
+
 ## Equipment & Possessions
 ### Notable Items
-`~{**[[Necklace of the Shades]]** - Magical item, possibly connected to his forgotten past}`
+`~{**[[Necklace of the Shades]]** - Item, possibly connected to his forgotten past}`
 `~{**Wooden figure of [[Talos]]** - Religious focus, represents his divine connection
 **Survival tools** - Expert at skinning and harvesting materials from creatures}`
 **Javelin of Lightning** - Taken from the bandit leader

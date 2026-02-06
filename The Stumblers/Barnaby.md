@@ -118,21 +118,7 @@ Recovering stolen trade goods from bandit ambush
 **Turtle shell wagon** - Symbol of his merchant heritage
 **Trade route maps** - Representing his expertise and family legacy
 **Alchemy tools** - Connection to his artificer abilities
-## Secrets & Hidden Information
-``` blur-block
-### Known Secrets
-**[[Luxor]]'s Deal**: Why was he specifically chosen to transport rubies? Connection to larger conspiracy
-**Ruby Conspiracy**: The true nature of the ruby delivery mission
-**Family Pressure**: Struggling to live up to Tortle merchant traditions
-**Combat Cowardice**: His tendency to retreat rather than fight puts party at risk
-### Potential Plot Hooks
-**Trust Restoration**: Rebuilding relationships after [[Cnut]]'s death
-**[[Luxor]] Connection**: His role in larger ruby/conspiracy plot
-**Airship Ambition**: Quest to acquire airship for trading empire
-**Family Legacy**: Pressure to restore Tortle merchant reputation
-**Party Consequences**: Ongoing fallout from abandoning dying party member
-**Ruby Mystery**: Unraveling the true purpose of his transport mission
-```
+
 ## Notes & Miscellaneous
 **Major Character Crisis**: His abandonment of [[Cnut]] represents a defining moment that has fundamentally altered party dynamics
 **Trading Expertise**: Extensive knowledge of regional trade routes and business practices
