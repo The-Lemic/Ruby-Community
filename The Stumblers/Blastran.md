@@ -29,7 +29,7 @@ Family with political ambitions - parents trying to raise a court wizard rather 
 Parents attempting to get the King's ring for political reasons
 Comes from background expecting conventional magical education path
 ### Notable Life Events
-**Academic Expulsion**: Had disagreement/accident with [[Morfumple the Mediocre]] (possibly intentional to get away from [[Neil]])
+**Academic Expulsion**: Had disagreement/accident with [[Morfumple the Mediocre]] (possibly intentional to get away from [[Neil the magnificent]])
 **Teacher Conflict**: Left previous magical training under questionable circumstances
 **Family Pressure**: Parents pushing for court wizard career rather than adventuring
 ## Notable Campaign Moments
@@ -38,17 +38,17 @@ Comes from background expecting conventional magical education path
 
 **Session 2**: Created a floating pink disc for [[Cnut]]'s performance at [[The Stumble Inn]], showing creative magical support
 
-**Session 3**: **MAJOR SUCCESS** - Found the teacher he was seeking in [[Aldor]], securing new mentorship and patron
+**Session 3**: **MAJOR SUCCESS** - Found the teacher he was seeking in [[Aldor the Wizard]], securing new mentorship and patron
 
 **Session 4**: Provided ranged magical support from an overlook during the mine battle, went down fighting alongside [[Bronn]]
 ### Character Development
 Evolution from expelled apprentice to valued party member
 Gaining practical magical experience outside traditional academic structure
 Developing independence from family political expectations
-Building mentor relationship with [[Aldor]]
+Building mentor relationship with [[Aldor the Wizard]]
 ## Personal Quests & Goals
 ### Current Personal Quests
-**Magical Education**: Learning from [[Aldor]] as new mentor and patron
+**Magical Education**: Learning from [[Aldor the Wizard]] as new mentor and patron
 **Independence Quest**: Breaking free from family's court wizard expectations
 **Knowledge Seeking**: Pursuing unconventional magical education and power
 ### Long-term Goals & Motivations
@@ -58,8 +58,8 @@ Prove that alternative magical education can be superior to traditional paths
 Support party through tactical magical abilities
 ### Unresolved Business
 
-**Former Teacher Conflict**: True reason for expulsion from [[Morfumple the Mediocre]] and issues with [[Neil]]
-**[[Aldor]] Training**: Developing new magical abilities under unconventional mentorship
+**Former Teacher Conflict**: True reason for expulsion from [[Morfumple the Mediocre]] and issues with [[Neil the magnificent]]
+**[[Aldor the Wizard]] Training**: Developing new magical abilities under unconventional mentorship
 ## Relationships & Connections
 ### Party Members
 - [[Barnaby]] - Provided magical assistance, relationship affected by [[Cnut]] incident
@@ -68,15 +68,15 @@ Support party through tactical magical abilities
 - [[Strom]] - Fellow adventurer, provides magical support for his combat efforts
 
 ### NPCs & Important Figures
-**[[Aldor]]** - **NEW MENTOR** - Successfully acquired as patron and teacher, represents new educational path
+**[[Aldor the Wizard]]** - **NEW MENTOR** - Successfully acquired as patron and teacher, represents new educational path
 **[[Morfumple the Mediocre]]** - **Former teacher** - Had conflict leading to expulsion
-**[[Neil]]** - **Former magical contact** - Part of previous educational problems
+**[[Neil the magnificent]]** - **Former magical contact** - Part of previous educational problems
 **[[Bjorn The BlackSmith]]** - Beneficiary of his weapon restoration magic
 **Parents** - Politically ambitious, pushing court wizard career
 **[[Marvin the Owlbear]]** - Protected alongside [[Bronn]] in final battle
 ### Enemies & Rivals
 **[[Morfumple the Mediocre]]** - Former teacher, represents failed traditional education
-**[[Neil]]** - Former magical contact, part of previous conflicts
+**[[Neil the magnificent]]** - Former magical contact, part of previous conflicts
 **Family expectations** - Political pressure to become court wizard
 **Traditional magical establishment** - Represents path he's rejected
 ## Places & Locations
@@ -85,12 +85,12 @@ Family with court connections and political ambitions
 Background of expected conventional magical education
 Rebel against predetermined court wizard career path
 ### Significant Locations Visited
-**[[Aldor]]'s Tower** - **NEW BASE** - Location of his new mentorship and magical education
+**[[Aldor the Wizard]]'s Tower** - **NEW BASE** - Location of his new mentorship and magical education
 **Previous magical school/academy** - Where he was expelled
 **[[The Stumble Inn]]** - Site of creative magical performance collaboration
 **Mine battle location** - Where he made his final stand with [[Bronn]]
 ### Places of Interest
-**[[Aldor]]'s Tower** - Center of his new magical education and party base
+**[[Aldor the Wizard]]'s Tower** - Center of his new magical education and party base
 **Court locations** - Where parents want him to serve as wizard
 **Unconventional magical sites** - Places of learning outside traditional academy system
 **Libraries and archives** - Sources of knowledge for independent study
@@ -98,7 +98,7 @@ Rebel against predetermined court wizard career path
 ### Notable Items
 **Academic supplies** - Tools for magical research and education
 **Spellcasting focus** - Equipment for channeling magical abilities
-**Research materials** - Books and components acquired from [[Aldor]]
+**Research materials** - Books and components acquired from [[Aldor the Wizard]]
 ### Magical Items
 **Spell components** - Materials for various magical effects
 **Magical focus items** - Tools for channeling spells
@@ -107,7 +107,7 @@ Rebel against predetermined court wizard career path
 **Magic missiles** - Combat magical abilities
 ### Sentimental Items
 **Academic materials** - Representing his chosen path over family expectations
-**Items from [[Aldor]]** - Symbols of new mentorship and independence
+**Items from [[Aldor the Wizard]]** - Symbols of new mentorship and independence
 **Memory of [[Cnut]]'s performance** - Creative magical collaboration
 ## Notes & Miscellaneous
 **Educational Rebel**: Represents rejection of traditional magical academy system in favor of practical, unconventional learning
@@ -115,4 +115,4 @@ Rebel against predetermined court wizard career path
 **Tactical Support**: Specialized in providing magical assistance from strategic positions
 **Creative Magic Use**: Shows innovative applications like performance enhancement and item restoration
 **Heroic Development**: Evolved from expelled student to reliable party member willing to fight alongside allies
-**[[Aldor]] Connection**: New mentorship represents major character development and potential power growth
+**[[Aldor the Wizard]] Connection**: New mentorship represents major character development and potential power growth
