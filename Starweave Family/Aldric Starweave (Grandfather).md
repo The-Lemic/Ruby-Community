@@ -1,3 +1,9 @@
+---
+publish: true
+tags:
+  - NPC
+---
+
 # Aldric Starweave
 
 **The Patriarch - Royal Court Wizard** - The Tywin Lannister of wizards

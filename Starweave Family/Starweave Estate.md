@@ -1,3 +1,9 @@
+---
+publish: true
+tags:
+  - Location
+---
+
 # The Starweave Estate
 
 The Starweave Estate sits in rolling countryside approximately two hours' ride from Godmere proper, far enough from the city to maintain aristocratic seclusion but close enough for convenient access to court. The estate has been in the family for over three centuries, granted to the Starweaves after the first Court Wizard of the lineage saved the then-king from a magical assassination attempt.

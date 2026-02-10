@@ -1,3 +1,9 @@
+---
+publish: true
+tags:
+  - NPC
+---
+
 # Isadora Starweave
 
 **The Dutiful Daughter**

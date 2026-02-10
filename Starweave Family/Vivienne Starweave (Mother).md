@@ -1,3 +1,9 @@
+---
+publish: true
+tags:
+  - NPC
+---
+
 # Vivienne Starweave (née Thornwell)
 
 **Matriarch - The Seer**

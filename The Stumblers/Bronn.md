@@ -43,7 +43,7 @@ Many before him have been driven mad by [[Talos]]'s power
 
 **Session 3**: Expertly skinned a lion for [[Finric]], later harvested materials from the dead lion, demonstrating survival skills
 
-**Session 4**: Heroically deflected lightning damage to protect [[Blastran]] and [[Marvin the Owlbear]], went down fighting alongside them
+**Session 4**: Heroically deflected lightning damage to protect [[Blastran Starweave]] and [[Marvin the Owlbear]], went down fighting alongside them
 
 Session 5: Gained the javelin of lightning. Had a flashback at the [[Destroyed Kord's House]] where he saw [[Jason Kord]] and [[Emma Kord]] being attacked by people dressed in blue cloaks
 ### Character Development
@@ -73,13 +73,13 @@ Protect his current party from the consequences of his forgotten actions
 - [[Barnaby]] - **PROTECTIVE** - Consistently moves to protect him in combat, strong protective bond
 - [[Cnut]] - **DECEASED** - Former party member, may feel guilt over his death in Session 4
 - [[Strom]] - Fellow warrior, mutual respect in combat situations
-- [[Blastran]] - Protected him from lightning damage, showing selfless heroism
+- [[Blastran Starweave]] - Protected him from lightning damage, showing selfless heroism
 
 ### NPCs & Important Figures
 **The old miner (deceased)** - Killed 20 years ago during [[Everflame]] persecution
 **The miner's daughter** - An [[Everflame]], potential enemy seeking revenge for father's death
 **[[Finric]]** - Recipient of expertly skinned lion, appreciates his practical skills
-**[[Marvin the Owlbear]]** - Protected alongside [[Blastran]] in Session 4
+**[[Marvin the Owlbear]]** - Protected alongside [[Blastran Starweave]] in Session 4
 **Unknown Mind Wiper** - Mysterious figure who erased his memories
 **[[Talos]]** - Storm god patron, source of dangerous power
 

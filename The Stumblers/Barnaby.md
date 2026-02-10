@@ -73,7 +73,7 @@ Recovering stolen trade goods from bandit ambush
 - [[Bronn]] - Protective relationship, Bronn moved to protect him during ambush
 - [[Cnut]] - **MASSIVE GUILT** - His refusal to heal led to Cnut's death, creating serious party tension
 - [[Strom]] - Fellow adventurer, relationship strained after Cnut incident
-- [[Blastran]] - Magical ally, relationship affected by Cnut abandonment
+- [[Blastran Starweave]] - Magical ally, relationship affected by Cnut abandonment
 
 ### NPCs & Important Figures
 **[[Cnut]]** - Passenger picked up at [[Arastand]]

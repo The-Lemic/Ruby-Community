@@ -1,3 +1,9 @@
+---
+publish: true
+tags:
+  - NPC
+---
+
 # Celeste Starweave
 
 **The Youngest - The Wildcard**

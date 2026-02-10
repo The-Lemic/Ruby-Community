@@ -42,7 +42,7 @@ As he found out about the society, there was much turmoil with what to do with h
 
 **Everflame Concealment**: Learned to hide his fire magic abilities to avoid persecution
 **Village Connection**: Spent few years with [[Strom]] and [[Zog Ironheart]] hiding out in there village.
-**High Society:** Has gone to many society events where the [[Blastran]] family would also of attended.
+**High Society:** Has gone to many society events where the [[Blastran Starweave]] family would also of attended.
 
 
 ## Notable Campaign Moments
@@ -91,7 +91,7 @@ Use Ghostwalker skills for good rather than shadowy political manipulation
 - [[Strom]] - Childhood connection from shared village, mutual trust from before adventuring
 - [[Barnaby]] - Collaborative relationship, worked together on crossbow modifications
 - [[Bronn]] - Investigative partner, approached Godfrey together seeking information
-- [[Blastran]] - Fellow magic user, potential concern about Everflame revelation
+- [[Blastran Starweave]] - Fellow magic user, potential concern about Everflame revelation
 - [[Cnut]] - **DECEASED** - Former party member who died before Benny joined
 
 ### NPCs & Important Figures

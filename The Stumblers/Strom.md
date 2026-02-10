@@ -63,7 +63,7 @@ Understanding why his father is the only orc in the village
 - [[Barnaby]] - Fellow adventurer, travel companion
 - [[Bronn]] - Ally in combat situations
 - [[Cnut]] - **DECEASED** - Former party member who died in Session 4
-- [[Blastran]] - Magical support ally
+- [[Blastran Starweave]] - Magical support ally
 
 ### NPCs & Important Figures
 **[[Zog Ironheart]]** - Father, orc barbarian and town protector of [[Dawnvale]], devastated by wife's disappearance

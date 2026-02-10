@@ -1,3 +1,9 @@
+---
+publish: true
+tags:
+  - NPC
+---
+
 # Cornelius Starweave
 
 **Heir Apparent - Estate Manager**

@@ -1,3 +1,9 @@
+---
+publish: true
+tags:
+  - NPC
+---
+
 # Marcus Starweave
 
 **The Heir - Assistant Court Wizard**
