@@ -8,14 +8,15 @@ tags:
 ## Character Overview
 **Race/Class**: Sorcorer (Everflame heritage)
 **Background**: Member of The Ghostwalkers secret society
-**Player**: [Tom]
+**Player**: Tom
 
+![[BennyAvatar.jpg]]
 ## Appearance & Personality
 ### Physical Description
 Wears flamboyant outfits
 Carries a whip
 Bears the hidden mark of an Everflame - fire magic user
-Early 20s / Atheletic build / Red Hair
+Age: 23 / Atheletic build / Red Hair
 
 ### Personality Traits
 Dramatic flair and showmanship in combat and social situations
