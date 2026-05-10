@@ -28,6 +28,16 @@ The LeBeau family is one of the founding families of [[The Ghostwalkers]] secret
 
 This dual role as industrial magnates and shadow operatives makes the LeBeau family one of the most dangerous houses in [[Godmere]].
 
+### The Pact with Mammon
+
+Revealed to [[Blastran Starweave]] (in [[Danton LeBeau]]'s mask) on the dawn walk back from the burning palace in [[Session 13]]:
+
+The fortune of [[Atrata]] did not come to the family by luck. The first LeBeau, Jean Paul, sealed a pact with **[[Mammon]]**, fiend of greed, in exchange for the niter that became the black powder monopoly. The pact compounds across generations — every son and daughter is presented to Mammon at [[The Fold]] in [[The Sanctum]] and bound into the same debt. The "gifts" that make a Reaper or a Siren are paid for in blood by the next generation in turn.
+
+Not every LeBeau qualifies. [[Benny LeBeau]] was not banished for rebellion — he was **rejected by the pact itself**. The [[Everflame]] in his blood would not take. [[Lord Javier LeBeau]]'s exile of his son was a compromise to save his life when [[Mammon]] would not accept him.
+
+In [[Session 13]], [[Lord Javier LeBeau]] re-bargained that compromise: he owes [[Mammon]] the delivery of [[Benny LeBeau]] by dawn.
+
 ## Family Members
 
 ### [[Lord Javier LeBeau]]
