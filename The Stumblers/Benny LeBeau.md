@@ -5,6 +5,9 @@ tags:
   - "#Mindmap"
 ---
 
+> [!tip] Interactive Character Sheet
+> 🔥 [Open Benny's interactive character sheet](https://dnd.thelemic.co.uk/static/benny-lebeau.html)
+
 ## Character Overview
 **Race/Class**: Sorcorer (Everflame heritage)
 **Background**: Member of The Ghostwalkers secret society
