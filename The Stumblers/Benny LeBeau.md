@@ -6,7 +6,7 @@ tags:
 ---
 
 > [!tip] Interactive Character Sheet
-> 🔥 [Open Benny's interactive character sheet](https://dnd.thelemic.co.uk/static/benny-lebeau.html)
+> 🔥 [[Benny LeBeau - Character Sheet|Open Benny's interactive character sheet]]
 
 ## Character Overview
 **Race/Class**: Sorcorer (Everflame heritage)
